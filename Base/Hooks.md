@@ -8,3 +8,12 @@ Tags: #web #react
 
 [[useState]]
 TODO: написать про useRef
+
+## Остальные хуки
+
+Эти хуки используются обычно авторами библиотек и не встречаются в обычном приложении.
+
+ [[useDebugValue]] - позволяет добавлять пометку к кастомному хуку в React DevTools;
+useId -позволяет компоненту ассоциироваться с уникальным ID. Обычно используется с API доступностью.
+
+- [`useSyncExternalStore`](https://react.dev/reference/react/useSyncExternalStore) lets a component subscribe to an external store.

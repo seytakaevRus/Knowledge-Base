@@ -1,5 +1,6 @@
 2023-09-25 21:48
-Tags: #web #react
+Tags: #web #react #draft
+## Для чего
 
 Позволяет синхронизировать компонент с `внешней системой`. Здесь под `внешней системой` подразумевается любой кусок кода, который не контролируется React:
 1. Таймер, управляемый `setInterval()` и `clearInterval()`;
@@ -73,7 +74,6 @@ export function useChatRoom({ serverUrl, roomId }) {
   }, [roomId, serverUrl]);
 }
 ```
-
 ### Fetching данных с сервера
 
 Запрос на получение данных указывается в `useEffect`.
@@ -102,5 +102,42 @@ export default function Page() {
     };
   }, [person]);
 ```
+### Обновления состояния, основываясь на предыдущем значении в useEffect
 
-TODO: https://react.dev/reference/react/useEffect#examples-connecting (object and functions)
+Вместо этого.
+
+```js
+function Counter() {
+  const [count, setCount] = useState(0);
+
+  useEffect(() => {
+    const intervalId = setInterval(() => {
+      setCount(count + 1); // You want to increment the counter every second...
+    }, 1000)
+    return () => clearInterval(intervalId);
+  }, [count]); // 🚩 ... but specifying `count` as a dependency always resets the interval.
+  // ...
+}```
+
+Можно сделать так.
+
+```js
+import { useState, useEffect } from 'react';
+
+export default function Counter() {
+  const [count, setCount] = useState(0);
+
+  useEffect(() => {
+    const intervalId = setInterval(() => {
+      setCount(c => c + 1); // ✅ Pass a state updater
+    }, 1000);
+    return () => clearInterval(intervalId);
+  }, []); // ✅ Now count is not a dependency
+
+  return <h1>{count}</h1>;
+}
+```
+
+### Удаление ненужной зависимости от объекта
+
+TODO: Добавить про использованием совместно с useRef, это бывает полезно.
