@@ -1,8 +1,13 @@
 2023-09-24 17:57
 Tags: #web #react
-
+## Создание компонента
 [[First Component]]
+## Использование JSX
 [[Writing Markup with JSX]]
+## Обмен данными между компонентами
+[[Passing data in component]]
+## Условный рендеринг
+[[Conditional rendering]]
 
 ## Добавление стилей
 

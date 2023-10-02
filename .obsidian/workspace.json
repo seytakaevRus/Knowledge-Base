@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Hooks.md",
+                "file": "Base/Keeping Components Pure.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b56e6d6db3873e51",
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Hooks.md",
+                "file": "Base/Keeping Components Pure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Hooks.md",
+                "file": "Base/Keeping Components Pure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Hooks.md"
+                "file": "Base/Keeping Components Pure.md"
               }
             }
           }
@@ -138,26 +140,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "3909be7017843a9b",
   "lastOpenFiles": [
-    "Pasted image 20230928151928.png",
-    "Base/Hooks.md",
-    "Base/React Quick Start.md",
-    "Base/useState.md",
-    "Base/useDebugValue.md",
-    "Base/Passing data in component.md",
-    "Base/First Component.md",
-    "Base/Основы использования markdown.md",
     "Base/useEffect.md",
+    "Base/Rendering lists.md",
+    "Base/First Component.md",
+    "Base/Keeping Components Pure.md",
+    "Base/React Quick Start.md",
+    "Base/Conditional rendering.md",
+    "Base/Passing data in component.md",
+    "Base/Writing Markup with JSX.md",
+    "Base/useId.md",
     "Base/About tags.md",
-    "Base/Writing Markup with JSX.md"
+    "Base/useDebugValue.md",
+    "Base/Основы использования markdown.md",
+    "Base/useState.md",
+    "Base/Hooks.md",
+    "Templates/Note.md",
+    "Pasted image 20230928151928.png"
   ]
 }

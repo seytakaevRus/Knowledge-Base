@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "tag:#react  ",
+  "collapse-filter": false,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,23 +8,30 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#react  ",
+      "query": "tag:#draft  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 6938706
+      }
+    },
+    {
+      "query": "tag:#react",
+      "color": {
+        "a": 1,
+        "rgb": 6443744
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.50875,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 2.3026612020488506,
-  "close": true
+  "scale": 1.0784195722552603,
+  "close": false
 }
