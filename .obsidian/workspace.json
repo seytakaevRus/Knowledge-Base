@@ -87,7 +87,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Base/Keeping Components Pure.md",
+=======
+                "file": "Base/useId.md",
+>>>>>>> 91f9570db896a42a61e8d27971361ea9b8a636ae
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Base/Keeping Components Pure.md",
+=======
+                "file": "Base/useId.md",
+>>>>>>> 91f9570db896a42a61e8d27971361ea9b8a636ae
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +135,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Base/Keeping Components Pure.md"
+=======
+                "file": "Base/useId.md"
+>>>>>>> 91f9570db896a42a61e8d27971361ea9b8a636ae
               }
             }
           }
@@ -150,6 +162,7 @@
   },
   "active": "3909be7017843a9b",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Base/useEffect.md",
     "Base/Rendering lists.md",
     "Base/First Component.md",
@@ -166,5 +179,19 @@
     "Base/Hooks.md",
     "Templates/Note.md",
     "Pasted image 20230928151928.png"
+=======
+    "Base/useDebugValue.md",
+    "Base/useId.md",
+    "Base/useState.md",
+    "Base/useEffect.md",
+    "Base/Writing Markup with JSX.md",
+    "Base/Hooks.md",
+    "Pasted image 20230928151928.png",
+    "Base/React Quick Start.md",
+    "Base/Passing data in component.md",
+    "Base/First Component.md",
+    "Base/Основы использования markdown.md",
+    "Base/About tags.md"
+>>>>>>> 91f9570db896a42a61e8d27971361ea9b8a636ae
   ]
 }
