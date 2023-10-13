@@ -1,19 +1,31 @@
 {
   "main": {
-    "id": "0fbb0583233c9f69",
+    "id": "c8fe481fafa6fc64",
     "type": "split",
     "children": [
       {
-        "id": "849e2e43336c6a39",
+        "id": "1a164145a87840f2",
         "type": "tabs",
         "children": [
           {
-            "id": "3909be7017843a9b",
+            "id": "6dec15a221379101",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Keeping Components Pure.md",
+                "file": "Base/Leetcode/Middle/2637.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f4294cd609eacf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Leetcode template.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d7d63d4e60c0e08b",
+    "id": "4990c4ff8b836937",
     "type": "split",
     "children": [
       {
-        "id": "5a4abe77a9c1a059",
+        "id": "7f3d19a99e1345b1",
         "type": "tabs",
         "children": [
           {
-            "id": "98e8c49b0b3f5859",
+            "id": "a6b145945390ace3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +55,7 @@
             }
           },
           {
-            "id": "ad953720d9c70ace",
+            "id": "479d674600317cea",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,40 +70,34 @@
             }
           },
           {
-            "id": "42c95c37d501a150",
+            "id": "bc9997a9bd68f88c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "b56e6d6db3873e51",
+    "id": "6e0ef4b066310e70",
     "type": "split",
     "children": [
       {
-        "id": "1f4f3c6d8206586f",
+        "id": "9d1bf1a46a5fbe45",
         "type": "tabs",
         "children": [
           {
-            "id": "a74dc80f384575ea",
+            "id": "a9dd97dd8a0cd64f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Base/Keeping Components Pure.md",
-=======
-                "file": "Base/useId.md",
->>>>>>> 91f9570db896a42a61e8d27971361ea9b8a636ae
+                "file": "Base/Leetcode/Middle/2637.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,23 +109,19 @@
             }
           },
           {
-            "id": "7143dacd2b1b248e",
+            "id": "2e36ac91ac7b7104",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Base/Keeping Components Pure.md",
-=======
-                "file": "Base/useId.md",
->>>>>>> 91f9570db896a42a61e8d27971361ea9b8a636ae
+                "file": "Base/Leetcode/Middle/2637.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7aa469c7f9a8a52b",
+            "id": "1da50d9f0386babd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,16 +132,12 @@
             }
           },
           {
-            "id": "1a282aff517faf36",
+            "id": "83f5b60fd786b58d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Base/Keeping Components Pure.md"
-=======
-                "file": "Base/useId.md"
->>>>>>> 91f9570db896a42a61e8d27971361ea9b8a636ae
+                "file": "Base/Leetcode/Middle/2637.md"
               }
             }
           }
@@ -160,38 +158,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3909be7017843a9b",
+  "active": "6dec15a221379101",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Base/useEffect.md",
-    "Base/Rendering lists.md",
-    "Base/First Component.md",
-    "Base/Keeping Components Pure.md",
-    "Base/React Quick Start.md",
-    "Base/Conditional rendering.md",
-    "Base/Passing data in component.md",
-    "Base/Writing Markup with JSX.md",
-    "Base/useId.md",
-    "Base/About tags.md",
-    "Base/useDebugValue.md",
-    "Base/Основы использования markdown.md",
-    "Base/useState.md",
-    "Base/Hooks.md",
+    "Base/Leetcode/Super easy/2621.md",
+    "Base/Leetcode/Middle/2637.md",
+    "Base/Leetcode/Middle",
+    "Base/Leetcode/Easy/2629.md",
+    "Base/Leetcode/Easy/2666.md",
+    "Base/Leetcode/Easy/2723.md",
+    "Templates/Leetcode template.md",
+    "Base/Leetcode/Super easy/2626.md",
+    "Base/Leetcode/Super easy/2634.md",
+    "Base/Leetcode/Super easy/2635.md",
     "Templates/Note.md",
-    "Pasted image 20230928151928.png"
-=======
-    "Base/useDebugValue.md",
-    "Base/useId.md",
-    "Base/useState.md",
-    "Base/useEffect.md",
-    "Base/Writing Markup with JSX.md",
-    "Base/Hooks.md",
-    "Pasted image 20230928151928.png",
-    "Base/React Quick Start.md",
-    "Base/Passing data in component.md",
-    "Base/First Component.md",
-    "Base/Основы использования markdown.md",
-    "Base/About tags.md"
->>>>>>> 91f9570db896a42a61e8d27971361ea9b8a636ae
+    "Base/React",
+    "Templates/Note without links.md",
+    "Base/Leetcode/Super easy/1672.md",
+    "Base/Leetcode/Studying on leetcode.md",
+    "Base/Leetcode/Super easy/485.md",
+    "Base/Leetcode/Super easy/412.md",
+    "Base/Leetcode/Easy/977.md",
+    "Base/Leetcode/Super easy/1480.md",
+    "Base/Leetcode/Super easy/1342.md",
+    "Base/Leetcode/Super easy/1295.md",
+    "Base/Leetcode/Super easy",
+    "Base/Leetcode",
+    "Base/Leetcode/Easy"
   ]
 }
