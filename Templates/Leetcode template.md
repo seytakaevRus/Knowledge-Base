@@ -1,5 +1,13 @@
+---
+level: 
+tags:
+  - leetcode
+id:
+---
 {{date:yyyy-MM-DD}} {{time:HH:mm}}
 Tags: #leetcode
+
+
 ## Description
 
 **Example 1:**

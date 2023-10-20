@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c7c74fe35c40e5ac",
+        "id": "01160085430edc9f",
         "type": "tabs",
         "children": [
           {
-            "id": "efa8e93b3ae38092",
+            "id": "8ffae07d4c0dd501",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Leetcode/Easy/2631.md",
+                "file": "Templates/Leetcode template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Leetcode/Easy/2631.md",
+                "file": "Templates/Leetcode template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Leetcode/Easy/2631.md",
+                "file": "Templates/Leetcode template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Leetcode/Easy/2631.md"
+                "file": "Templates/Leetcode template.md"
               }
             }
           }
@@ -143,39 +143,41 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "efa8e93b3ae38092",
+  "active": "8ffae07d4c0dd501",
   "lastOpenFiles": [
-    "Base/Leetcode/Easy/2723.md",
-    "Base/Leetcode/Easy/2631.md",
-    "Base/Leetcode/Super easy/2619.md",
-    "Base/Leetcode/Easy/2666.md",
-    "Base/Leetcode/Easy/977.md",
-    "Base/Leetcode/Easy/2629.md",
-    "Base/Leetcode/Easy/2715.md",
-    "Base/Leetcode/Easy/2725.md",
-    "Base/Leetcode/Easy/2677.md",
-    "Base/Leetcode/Super easy/2727.md",
-    "Base/Leetcode/Middle/2637.md",
-    "Templates/Leetcode template temp.md",
-    "Base/Leetcode/Super easy/2635.md",
-    "Base/Leetcode/Super easy/2634.md",
-    "Base/Leetcode/Super easy/2626.md",
-    "Base/Leetcode/Super easy/2621.md",
-    "Base/Leetcode/Super easy/1672.md",
-    "Base/Leetcode/Super easy/1480.md",
-    "Base/Leetcode/Super easy/412.md",
-    "Base/Leetcode/Super easy/485.md",
-    "Base/Leetcode/Super easy/1295.md",
-    "Base/Leetcode/Super easy/1342.md",
-    "Templates/Leetcode template.md",
-    "Templates/Note without links.md",
-    "Base/Leetcode/Middle",
-    "Templates/Note.md",
-    "Base/React",
     "Base/Leetcode/Studying on leetcode.md",
+    "Base/Leetcode/Super easy/485.md",
+    "Base/Leetcode/Super easy/412.md",
+    "Base/Leetcode/Super easy/1295.md",
+    "Base/Leetcode/Super easy/2619.md",
+    "Base/Leetcode/Super easy/1480.md",
+    "Base/Leetcode/Super easy/1342.md",
+    "Base/Leetcode/Super easy/2621.md",
+    "Base/Leetcode/Super easy/2634.md",
+    "Base/Leetcode/Super easy/2635.md",
+    "Base/Leetcode/Super easy/2727.md",
+    "Base/Leetcode/Super easy/2626.md",
+    "Base/Leetcode/Super easy/1672.md",
+    "Base/Leetcode/Easy/234567890987654.md",
+    "Templates/Leetcode test.md",
+    "Templates/Note without links.md",
+    "Templates/Leetcode template.md",
+    "Base/1345.md",
+    "Base/Leetcode/Middle/2637.md",
+    "Base/Leetcode/Easy/977.md",
+    "Base/Leetcode/Easy/2725.md",
+    "Base/Leetcode/Easy/2723.md",
+    "Base/Leetcode/Easy/2715.md",
+    "Base/Leetcode/Easy/2677.md",
+    "Base/Leetcode/Easy/2631.md",
+    "Base/Leetcode/Easy/2666.md",
+    "Base/Leetcode2",
+    "Base/Leetcode/Middle",
+    "Base/React",
     "Base/Leetcode/Super easy",
     "Base/Leetcode",
     "Base/Leetcode/Easy"

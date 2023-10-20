@@ -1,12 +1,25 @@
-2023-10-03 22:59
-Tags: #leetcode
-
+---
+tags:
+  - index
+  - leetcode
+---
 Здесь можно найти задачи, которые я решал на https://leetcode.com.
-## Super easy
 
-[[412]]
-[[485]]
-[[1295]]
-[[1342]]
-[[1480]]
-[[1672]]
+```dataview
+TABLE level AS "Level"
+FROM #leetcode
+WHERE level = "super easy"
+SORT id ASC
+```
+
+```dataview
+TABLE level AS "Level"
+FROM #leetcode
+WHERE level = "easy"
+```
+
+```dataview
+TABLE level AS "Level"
+FROM #leetcode
+WHERE level = "middle"
+```
