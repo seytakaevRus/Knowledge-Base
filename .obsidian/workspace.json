@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "c8fe481fafa6fc64",
+    "id": "2e7027d30a85c7b8",
     "type": "split",
     "children": [
       {
-        "id": "6b3428ef8478a015",
+        "id": "7b8a5f729fe830aa",
         "type": "tabs",
         "children": [
           {
-            "id": "0eae4208645cd86d",
+            "id": "65abe1e0b1ec36c4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4990c4ff8b836937",
+    "id": "3b374639494bd33f",
     "type": "split",
     "children": [
       {
-        "id": "7f3d19a99e1345b1",
+        "id": "73f89b867f7f5486",
         "type": "tabs",
         "children": [
           {
-            "id": "a6b145945390ace3",
+            "id": "0d0cd92fa97b7e30",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +39,12 @@
             }
           },
           {
-            "id": "479d674600317cea",
+            "id": "51aa81d9112fb6af",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": ">",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "bc9997a9bd68f88c",
+            "id": "f41a9b842310c260",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,18 +65,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 425.5
   },
   "right": {
-    "id": "6e0ef4b066310e70",
+    "id": "21a12067d6be4146",
     "type": "split",
     "children": [
       {
-        "id": "9d1bf1a46a5fbe45",
+        "id": "504dd351ff7c2b62",
         "type": "tabs",
         "children": [
           {
-            "id": "a9dd97dd8a0cd64f",
+            "id": "6c9c425c2ad88631",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -86,13 +86,13 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2e36ac91ac7b7104",
+            "id": "69065c5f5ced90b8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,18 +103,18 @@
             }
           },
           {
-            "id": "1da50d9f0386babd",
+            "id": "36f804ebe79e8157",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
           {
-            "id": "83f5b60fd786b58d",
+            "id": "91e4707762de2561",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -125,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -135,42 +135,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "0eae4208645cd86d",
+  "active": "65abe1e0b1ec36c4",
   "lastOpenFiles": [
-    "Base/Leetcode/Studying on leetcode.md",
+    "Files",
     "Daily/2023-10-21.md",
-    "Templates/Leetcode template.md",
+    "Daily",
+    "Base/React/Writing Markup with JSX.md",
+    "Base/React/useState.md",
+    "Base/React/useId.md",
+    "Base/React/useEffect.md",
+    "Base/React/useDebugValue.md",
+    "Base/React/Rendering lists.md",
+    "Base/React/React Quick Start.md",
+    "Base/React/Passing data in component.md",
+    "Base/React/Keeping Components Pure.md",
+    "Base/React/Hooks.md",
+    "Base/React/First Component.md",
+    "Base/React/Conditional rendering.md",
+    "Base/React",
+    "Base/useEffect.md",
     "Base/Leetcode/Super easy/485.md",
     "Base/Leetcode/Super easy/412.md",
-    "Base/Leetcode/Super easy/1295.md",
+    "Base/Leetcode/Super easy/2727.md",
+    "Base/Leetcode/Super easy/2635.md",
+    "Base/Leetcode/Super easy/2634.md",
+    "Base/Leetcode/Super easy/2626.md",
+    "Base/Leetcode/Super easy/2621.md",
     "Base/Leetcode/Super easy/2619.md",
+    "Base/Leetcode/Super easy/1672.md",
     "Base/Leetcode/Super easy/1480.md",
     "Base/Leetcode/Super easy/1342.md",
-    "Base/Leetcode/Super easy/2621.md",
-    "Base/Leetcode/Super easy/2634.md",
-    "Base/Leetcode/Super easy/2635.md",
-    "Base/Leetcode/Super easy/2727.md",
-    "Base/Leetcode/Super easy/2626.md",
-    "Base/Leetcode/Super easy/1672.md",
-    "Base/Leetcode/Easy/234567890987654.md",
-    "Templates/Leetcode test.md",
-    "Templates/Note without links.md",
-    "Base/1345.md",
-    "Base/Leetcode/Middle/2637.md",
-    "Base/Leetcode/Easy/977.md",
-    "Base/Leetcode/Easy/2725.md",
-    "Base/Leetcode/Easy/2723.md",
-    "Base/Leetcode/Easy/2715.md",
-    "Base/Leetcode/Easy/2677.md",
-    "Base/Leetcode/Easy/2631.md",
-    "Base/Leetcode2",
-    "Base/Leetcode/Middle",
-    "Base/React",
     "Base/Leetcode/Super easy",
+    "Base/Leetcode/Middle",
+    "Base/Leetcode/Easy",
     "Base/Leetcode",
-    "Base/Leetcode/Easy"
+    "Web Technology.rar",
+    "Templates",
+    "Base",
+    "Без названия.canvas",
+    "Ресурсы/Pasted image 20230227180503.png",
+    "Ресурсы/Pasted image 20230227180450.png",
+    "Ресурсы/Pasted image 20230227175856.png",
+    "Ресурсы/Pasted image 20230227175831.png",
+    "Ресурсы/Pasted image 20230227175815.png",
+    "Ресурсы/Pasted image 20230227174932.png",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas",
+    "Ресурсы/Pasted image 20230226151504.png",
+    "Ресурсы/Pasted image 20230219202834.png",
+    "Ресурсы/Pasted image 20230219194131.png",
+    "Ресурсы/Pasted image 20230219191042.png"
   ]
 }
