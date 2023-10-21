@@ -2,39 +2,77 @@
 level: 
 tags:
   - leetcode
-id:
+id: 
+linkToTask:
 ---
-{{date:yyyy-MM-DD}} {{time:HH:mm}}
-Tags: #leetcode
-
-
 ## Description
 
-**Example 1:**
->**Input:** ``
-	``
-	``
->**Output:**  ``
-	``
-	``
+---
+## Example 1
 
-**Example 2:**
->**Input:** ``
-	``
-	``
->**Output:**  ``
-	``
-	``
+### Input
 
-**Example 3:**
->**Input:** ``
-	``
-	``
->**Output:**  ``
-	``
-	``
+```
+```
+### Output
 
+```
+```
+### Explanation
+
+```
+```
+
+---
+## Example 2
+
+### Input
+
+```
+```
+### Output
+
+```
+```
+### Explanation
+
+```
+```
+
+---
+## Example 3
+
+### Input
+
+```
+```
+### Output
+
+```
+```
+### Explanation
+
+```
+```
+
+---
 ## Answers
+
+### Answer 1
 
 ```typescript
 ```
+
+Сложность по времени: `O()`, потому что .
+
+Сложность по памяти: `O()`, потому что .
+
+---
+### Answer 2
+
+```typescript
+```
+
+Сложность по времени: `O()`, потому что .
+
+Сложность по памяти: `O()`, потому что .

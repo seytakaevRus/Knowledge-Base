@@ -1,5 +1,6 @@
 [
   "obsidian-languagetool-plugin",
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "cm-editor-syntax-highlight-obsidian"
 ]
