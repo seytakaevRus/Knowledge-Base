@@ -8,6 +8,9 @@ linkToTask:
 ## Description
 
 ---
+## Constraints
+
+---
 ## Example 1
 
 ### Input
