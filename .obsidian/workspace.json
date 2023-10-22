@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Leetcode/Easy/1920.md",
+                "file": "Base/Leetcode/Easy/1470.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8e141d4940e8743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Leetcode/Super easy/1920.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,8 +61,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ">",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 327.5
   },
   "right": {
     "id": "21a12067d6be4146",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Leetcode/Easy/1920.md",
+                "file": "Base/Leetcode/Super easy/1920.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Leetcode/Easy/1920.md",
+                "file": "Base/Leetcode/Super easy/1920.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Leetcode/Easy/1920.md"
+                "file": "Base/Leetcode/Super easy/1920.md"
               }
             }
           }
@@ -146,37 +159,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65abe1e0b1ec36c4",
+  "active": "e8e141d4940e8743",
   "lastOpenFiles": [
-    "Templates/Leetcode template.md",
-    "Base/Leetcode/Easy/1920.md",
-    "Base/Leetcode/Easy/Untitled.md",
-    "Base/Leetcode/Studying on leetcode.md",
-    "Files",
-    "Daily/2023-10-21.md",
-    "Daily",
-    "Base/React/Writing Markup with JSX.md",
-    "Base/React/useState.md",
-    "Base/React/useId.md",
-    "Base/React/useEffect.md",
-    "Base/React/useDebugValue.md",
-    "Base/React/Rendering lists.md",
-    "Base/React/React Quick Start.md",
-    "Base/React/Passing data in component.md",
-    "Base/React/Keeping Components Pure.md",
-    "Base/React/First Component.md",
-    "Base/React/Hooks.md",
-    "Base/React/Conditional rendering.md",
-    "Base/React",
-    "Base/Leetcode/Super easy/485.md",
-    "Base/Leetcode/Super easy/412.md",
+    "Base/Leetcode/Easy/1470.md",
+    "Base/Leetcode/Super easy/1920.md",
+    "Base/Leetcode/Super easy/1295.md",
+    "Base/Leetcode/Easy/977.md",
+    "Base/Leetcode/Easy/2631.md",
+    "Base/Leetcode/Easy/2629.md",
     "Base/Leetcode/Super easy/2727.md",
+    "Base/Leetcode/Super easy/1672.md",
+    "Base/Leetcode/Super easy/1480.md",
     "Base/Leetcode/Super easy/2635.md",
     "Base/Leetcode/Super easy/2634.md",
     "Base/Leetcode/Super easy/2626.md",
     "Base/Leetcode/Super easy/2621.md",
     "Base/Leetcode/Super easy/2619.md",
-    "Base/Leetcode/Super easy/1672.md",
+    "Base/Leetcode/Super easy/2011.md",
+    "Base/Leetcode/Easy/2666.md",
+    "Base/Leetcode/Easy/2677.md",
+    "Base/Leetcode/Easy/2725.md",
+    "Base/Leetcode/Easy/2723.md",
+    "Base/Leetcode/Easy/2715.md",
+    "Base/Leetcode/Super easy/1929.md",
+    "Base/Leetcode/Studying on leetcode.md",
+    "Templates/Leetcode template.md",
+    "Files",
+    "Daily/2023-10-21.md",
+    "Daily",
+    "Base/React/Writing Markup with JSX.md",
+    "Base/React/useState.md",
+    "Base/React",
     "Base/Leetcode/Super easy",
     "Base/Leetcode/Easy",
     "Base/Leetcode/Middle",
