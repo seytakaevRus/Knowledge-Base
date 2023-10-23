@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Leetcode/Studying on leetcode.md",
+                "file": "Base/Leetcode/Super easy/1480.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "right": {
     "id": "21a12067d6be4146",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Leetcode/Studying on leetcode.md",
+                "file": "Base/Leetcode/Super easy/1480.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Leetcode/Studying on leetcode.md",
+                "file": "Base/Leetcode/Super easy/1480.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Leetcode/Studying on leetcode.md"
+                "file": "Base/Leetcode/Super easy/1480.md"
               }
             }
           }
@@ -149,12 +150,12 @@
   "active": "3ef83c3b66c15b22",
   "lastOpenFiles": [
     "Base/Leetcode/Easy/1431.md",
+    "Base/Leetcode/Studying on leetcode.md",
     "Base/Leetcode/Super easy/1672.md",
     "Templates/Leetcode template.md",
     "Base/Leetcode/Easy/1470.md",
     "Base/Leetcode/Super easy/1929.md",
     "Base/Leetcode/Super easy/1920.md",
-    "Base/Leetcode/Studying on leetcode.md",
     "Base/Leetcode/Easy/2666.md",
     "Base/Leetcode/Easy/2677.md",
     "Base/Leetcode/Super easy/2621.md",
