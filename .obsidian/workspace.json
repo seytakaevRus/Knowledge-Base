@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "2e7027d30a85c7b8",
+    "id": "0fbb0583233c9f69",
     "type": "split",
     "children": [
       {
-        "id": "283b18748d27bf57",
+        "id": "4cf4b6b27d6ea27f",
         "type": "tabs",
         "children": [
           {
-            "id": "3ef83c3b66c15b22",
+            "id": "21723a8ce358dc50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Leetcode/Super easy/1480.md",
+                "file": "Base/Leetcode/Super easy/2626.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3b374639494bd33f",
+    "id": "d7d63d4e60c0e08b",
     "type": "split",
     "children": [
       {
-        "id": "73f89b867f7f5486",
+        "id": "5a4abe77a9c1a059",
         "type": "tabs",
         "children": [
           {
-            "id": "0d0cd92fa97b7e30",
+            "id": "98e8c49b0b3f5859",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,13 +43,13 @@
             }
           },
           {
-            "id": "51aa81d9112fb6af",
+            "id": "ad953720d9c70ace",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "f41a9b842310c260",
+            "id": "42c95c37d501a150",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,64 +69,64 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "21a12067d6be4146",
+    "id": "b56e6d6db3873e51",
     "type": "split",
     "children": [
       {
-        "id": "504dd351ff7c2b62",
+        "id": "1f4f3c6d8206586f",
         "type": "tabs",
         "children": [
           {
-            "id": "6c9c425c2ad88631",
+            "id": "a74dc80f384575ea",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Leetcode/Super easy/1480.md",
+                "file": "Base/Leetcode/Super easy/2626.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "69065c5f5ced90b8",
+            "id": "7143dacd2b1b248e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Leetcode/Super easy/1480.md",
+                "file": "Base/Leetcode/Super easy/2626.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "36f804ebe79e8157",
+            "id": "7aa469c7f9a8a52b",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "91e4707762de2561",
+            "id": "1a282aff517faf36",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Leetcode/Super easy/1480.md"
+                "file": "Base/Leetcode/Super easy/2626.md"
               }
             }
           }
@@ -134,69 +134,52 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3ef83c3b66c15b22",
+  "active": "21723a8ce358dc50",
   "lastOpenFiles": [
-    "Base/Leetcode/Easy/1431.md",
     "Base/Leetcode/Studying on leetcode.md",
-    "Base/Leetcode/Super easy/1672.md",
+    "Base/Leetcode/Super easy/2634.md",
+    "Base/Leetcode/Super easy/2635.md",
+    "Daily/2023-10-21.md",
     "Templates/Leetcode template.md",
-    "Base/Leetcode/Easy/1470.md",
-    "Base/Leetcode/Super easy/1929.md",
-    "Base/Leetcode/Super easy/1920.md",
-    "Base/Leetcode/Easy/2666.md",
-    "Base/Leetcode/Easy/2677.md",
+    "Base/React/useState.md",
+    "Base/React/useId.md",
+    "Base/React/useEffect.md",
+    "Base/React/useDebugValue.md",
+    "Base/React/Writing Markup with JSX.md",
+    "Base/React/Rendering lists.md",
+    "Base/React/React Quick Start.md",
+    "Base/React/Passing data in component.md",
+    "Base/React/Keeping Components Pure.md",
+    "Base/React/Hooks.md",
+    "Base/React/First Component.md",
+    "Base/React/Conditional rendering.md",
+    "Base/React",
+    "Base/Leetcode/Super easy/485.md",
+    "Base/Leetcode/Super easy/412.md",
+    "Base/Leetcode/Super easy/2727.md",
+    "Base/Leetcode/Super easy/2626.md",
     "Base/Leetcode/Super easy/2621.md",
     "Base/Leetcode/Super easy/2619.md",
     "Base/Leetcode/Super easy/2011.md",
-    "Base/Leetcode/Super easy/1295.md",
-    "Base/Leetcode/Easy/977.md",
-    "Base/Leetcode/Easy/2631.md",
-    "Base/Leetcode/Easy/2629.md",
-    "Base/Leetcode/Super easy/2727.md",
-    "Base/Leetcode/Super easy/1480.md",
-    "Base/Leetcode/Super easy/2635.md",
-    "Base/Leetcode/Super easy/2634.md",
-    "Base/Leetcode/Super easy/2626.md",
-    "Base/Leetcode/Easy/2725.md",
-    "Base/Leetcode/Easy/2723.md",
-    "Base/Leetcode/Easy/2715.md",
-    "Files",
-    "Daily/2023-10-21.md",
-    "Daily",
-    "Base/React/Writing Markup with JSX.md",
-    "Base/React",
+    "Base/Leetcode/Super easy/1929.md",
+    "Base/Leetcode/Super easy/1920.md",
     "Base/Leetcode/Super easy",
-    "Base/Leetcode/Easy",
     "Base/Leetcode/Middle",
+    "Base/Leetcode/Easy",
     "Base/Leetcode",
-    "Web Technology.rar",
-    "Templates",
-    "Base",
-    "Без названия.canvas",
-    "Ресурсы/Pasted image 20230227180503.png",
-    "Ресурсы/Pasted image 20230227180450.png",
-    "Ресурсы/Pasted image 20230227175856.png",
-    "Ресурсы/Pasted image 20230227175831.png",
-    "Ресурсы/Pasted image 20230227175815.png",
-    "Ресурсы/Pasted image 20230227174932.png",
-    "Без названия 2.canvas",
-    "Без названия 1.canvas",
-    "Ресурсы/Pasted image 20230226151504.png",
-    "Ресурсы/Pasted image 20230219202834.png",
-    "Ресурсы/Pasted image 20230219194131.png",
-    "Ресурсы/Pasted image 20230219191042.png"
+    "Pasted image 20230928151928.png"
   ]
 }
