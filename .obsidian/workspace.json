@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "283b18748d27bf57",
+        "id": "2b0fbdab34f58801",
         "type": "tabs",
         "children": [
           {
-            "id": "3ef83c3b66c15b22",
+            "id": "76bb5569669e951d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Leetcode/Super easy/1480.md",
+                "file": "Base/Leetcode/Easy/2666.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "right": {
     "id": "21a12067d6be4146",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Leetcode/Super easy/1480.md",
+                "file": "Base/Leetcode/Easy/2666.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Leetcode/Super easy/1480.md",
+                "file": "Base/Leetcode/Easy/2666.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Leetcode/Super easy/1480.md"
+                "file": "Base/Leetcode/Easy/2666.md"
               }
             }
           }
@@ -146,36 +147,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ef83c3b66c15b22",
+  "active": "76bb5569669e951d",
   "lastOpenFiles": [
-    "Base/Leetcode/Easy/1431.md",
-    "Base/Leetcode/Studying on leetcode.md",
-    "Base/Leetcode/Super easy/1672.md",
-    "Templates/Leetcode template.md",
-    "Base/Leetcode/Easy/1470.md",
-    "Base/Leetcode/Super easy/1929.md",
-    "Base/Leetcode/Super easy/1920.md",
+    "Base/Leetcode/Easy/2629.md",
+    "Base/Leetcode/Easy/2631.md",
     "Base/Leetcode/Easy/2666.md",
+    "Base/Leetcode/Easy/2723.md",
+    "Base/Leetcode/Easy/2725.md",
+    "Base/Leetcode/Easy/2715.md",
     "Base/Leetcode/Easy/2677.md",
+    "Base/Leetcode/Super easy/2626.md",
+    "Base/Leetcode/Super easy/2634.md",
+    "Base/Leetcode/Super easy/2635.md",
+    "Base/Leetcode/Super easy/1480.md",
+    "Base/Leetcode/Super easy/2727.md",
     "Base/Leetcode/Super easy/2621.md",
     "Base/Leetcode/Super easy/2619.md",
     "Base/Leetcode/Super easy/2011.md",
-    "Base/Leetcode/Super easy/1295.md",
+    "Base/Leetcode/Super easy/1929.md",
+    "Base/Leetcode/Super easy/1920.md",
+    "Base/Leetcode/Super easy/1672.md",
+    "Base/Leetcode/Super easy/1342.md",
+    "Base/Leetcode/Super easy/485.md",
+    "Base/Leetcode/Super easy/412.md",
     "Base/Leetcode/Easy/977.md",
-    "Base/Leetcode/Easy/2631.md",
-    "Base/Leetcode/Easy/2629.md",
-    "Base/Leetcode/Super easy/2727.md",
-    "Base/Leetcode/Super easy/1480.md",
-    "Base/Leetcode/Super easy/2635.md",
-    "Base/Leetcode/Super easy/2634.md",
-    "Base/Leetcode/Super easy/2626.md",
-    "Base/Leetcode/Easy/2725.md",
-    "Base/Leetcode/Easy/2723.md",
-    "Base/Leetcode/Easy/2715.md",
+    "Base/Leetcode/Easy/1431.md",
+    "Base/Leetcode/Easy/1470.md",
+    "conflict-files-obsidian-git.md",
+    "Base/Leetcode/Studying on leetcode.md",
     "Files",
-    "Daily/2023-10-21.md",
     "Daily",
-    "Base/React/Writing Markup with JSX.md",
     "Base/React",
     "Base/Leetcode/Super easy",
     "Base/Leetcode/Easy",
