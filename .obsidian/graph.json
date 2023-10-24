@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#leetcode  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,23 +8,23 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#leetcode",
+      "query": "tag:#leetcode  ",
       "color": {
         "a": 1,
-        "rgb": 6443744
+        "rgb": 14701138
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.50875,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0784195722552603,
+  "scale": 8,
   "close": false
 }
