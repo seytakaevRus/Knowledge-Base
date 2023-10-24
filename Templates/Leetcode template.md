@@ -2,7 +2,6 @@
 level: 
 tags:
   - leetcode
-id: 
 linkToTask: 
 linkToIndex: "[[Studying on leetcode]]"
 ---
