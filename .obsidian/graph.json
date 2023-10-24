@@ -11,7 +11,7 @@
       "query": "tag:#leetcode  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 5401056
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 8,
+  "scale": 1.8762113624183698,
   "close": false
 }

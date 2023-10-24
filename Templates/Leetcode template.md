@@ -3,7 +3,8 @@ level:
 tags:
   - leetcode
 id: 
-linkToTask:
+linkToTask: 
+linkToIndex: "[[Studying on leetcode]]"
 ---
 ## Description
 
@@ -79,3 +80,4 @@ linkToTask:
 Сложность по времени: `O()`, потому что .
 
 Сложность по памяти: `O()`, потому что .
+

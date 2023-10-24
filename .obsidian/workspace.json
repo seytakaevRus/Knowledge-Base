@@ -11,8 +11,12 @@
             "id": "21723a8ce358dc50",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Base/Leetcode/Studying on leetcode.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b56e6d6db3873e51",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Leetcode/Studying on leetcode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/Leetcode/Studying on leetcode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base/Leetcode/Studying on leetcode.md"
+              }
             }
           }
         ]
@@ -139,35 +146,35 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "21723a8ce358dc50",
+  "active": "98e8c49b0b3f5859",
   "lastOpenFiles": [
-    "Base/Leetcode/Super easy/2626.md",
+    "Base/Leetcode/Middle/2623.md",
+    "Base/Leetcode/Middle/2637.md",
+    "Base/Leetcode/Easy/2715.md",
     "Base/Leetcode/Studying on leetcode.md",
-    "Base/Leetcode/Super easy/2634.md",
-    "Base/Leetcode/Super easy/2635.md",
-    "Daily/2023-10-21.md",
-    "Templates/Leetcode template.md",
-    "Base/React/useState.md",
-    "Base/React/useId.md",
-    "Base/React/useEffect.md",
-    "Base/React/useDebugValue.md",
-    "Base/React/Writing Markup with JSX.md",
-    "Base/React/Rendering lists.md",
-    "Base/React/React Quick Start.md",
-    "Base/React/Passing data in component.md",
-    "Base/React/Keeping Components Pure.md",
-    "Base/React/Hooks.md",
-    "Base/React/First Component.md",
-    "Base/React/Conditional rendering.md",
-    "Base/React",
-    "Base/Leetcode/Super easy/485.md",
-    "Base/Leetcode/Super easy/412.md",
     "Base/Leetcode/Super easy/2727.md",
+    "Base/Leetcode/Super easy/2635.md",
+    "Base/Leetcode/Super easy/2634.md",
+    "Base/Leetcode/Super easy/2626.md",
     "Base/Leetcode/Super easy/2621.md",
     "Base/Leetcode/Super easy/2619.md",
     "Base/Leetcode/Super easy/2011.md",
     "Base/Leetcode/Super easy/1929.md",
     "Base/Leetcode/Super easy/1920.md",
+    "Base/Leetcode/Super easy/1672.md",
+    "Base/Leetcode/Super easy/1480.md",
+    "Base/Leetcode/Super easy/1342.md",
+    "Base/Leetcode/Super easy/1295.md",
+    "Base/Leetcode/Super easy/485.md",
+    "Base/Leetcode/Super easy/412.md",
+    "Base/Leetcode/Easy/2725.md",
+    "Base/Leetcode/Easy/2723.md",
+    "Base/Leetcode/Easy/2677.md",
+    "Base/Leetcode/Easy/2666.md",
+    "Base/Leetcode/Easy/2631.md",
+    "Base/Leetcode/Easy/2629.md",
+    "Base/Leetcode/Easy/1470.md",
+    "Base/React",
     "Base/Leetcode/Super easy",
     "Base/Leetcode/Middle",
     "Base/Leetcode/Easy",
