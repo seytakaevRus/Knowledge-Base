@@ -14,19 +14,19 @@ tags:
 5. `#draft` - задача, к которой нужно вернуться и доработать описание;
 
 ```dataview
-TABLE level AS "Level"
+TABLE level AS "Level", topics AS "Topics"
 FROM #leetcode
 WHERE level = "elementary"
 ```
 
 ```dataview
-TABLE level AS "Level"
+TABLE level AS "Level", topics AS "Topics"
 FROM #leetcode
 WHERE level = "easy"
 ```
 
 ```dataview
-TABLE level AS "Level"
+TABLE level AS "Level", topics AS "Topics"
 FROM #leetcode
 WHERE level = "middle"
 ```
