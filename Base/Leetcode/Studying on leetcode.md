@@ -16,7 +16,7 @@ tags:
 ```dataview
 TABLE level AS "Level"
 FROM #leetcode
-WHERE level = "super easy"
+WHERE level = "elementary"
 ```
 
 ```dataview
