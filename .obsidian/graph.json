@@ -8,10 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#leetcode  ",
+      "query": "[\"level\":\"easy\"]",
       "color": {
         "a": 1,
-        "rgb": 5401056
+        "rgb": 1738764
+      }
+    },
+    {
+      "query": "[\"level\":\"middle\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14725970
+      }
+    },
+    {
+      "query": "[\"level\":\"elementary\"]",
+      "color": {
+        "a": 1,
+        "rgb": 5405920
       }
     }
   ],
@@ -25,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9280423607859466,
+  "scale": 1.5016130961403187,
   "close": false
 }
