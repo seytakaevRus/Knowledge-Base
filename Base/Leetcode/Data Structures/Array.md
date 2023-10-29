@@ -9,7 +9,11 @@ linkToIndex: "[[Studying on leetcode]]"
 
 Массив может один или несколько измерений.
 
+Одномерный массив:
 ![[one-dimensional-array.png]]
+
+Двумерный массив:
+![[two-dimensional-array.png]]
 
 В массиве `A` выше есть 6 элементов. Он имеет длину 6, чтобы обратиться к первому элементу используется запись `A[0]`, к последнему `A[5]` или `A[A.length - 1]`.
 
@@ -22,22 +26,32 @@ linkToIndex: "[[Studying on leetcode]]"
 ## Operations
 
 ```typescript
-// 1. Создание.
+// 1. Создание одномерного и двумерного массива.
 const array = [1, 6, 3, 10, 5];
+const array2 = [[1, 2, 3], [7, 5, 1], [4, 5, 7]]
 
 // 2. Получение длины.
 console.log(array.length);
 
 // 3. Получение первого элемента.
 console.log(array[0]);
+console.log(array2[0][0]);
 
-// 4. Перебор массива.
+// 4. Перебор одномерного массива.
 for (let i = 0; i < array.length; i++) {
 	console.log(array[i]);
 }
 
+// Перебор двумерного массива.
+for (let i = 0; i < array.length; i++) {
+	for (let j = 0; j < array[i].length; j++) {
+		console.log(array[i][j]);
+	}
+}
+
 // 5. Модифицирование элемента.
 array[3] = 99;
+array2[1][2] = 99;
 
 // 6. Сортировка массива.
 array.sort((a, b) => a - b);

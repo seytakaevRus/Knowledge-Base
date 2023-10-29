@@ -8,17 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#repeat  ",
-      "color": {
-        "a": 1,
-        "rgb": 13110854
-      }
-    },
-    {
       "query": "tag:#leetcode  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 5401056
       }
     }
   ],
@@ -32,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.7494270523173692,
+  "scale": 0.45904349619917884,
   "close": false
 }
