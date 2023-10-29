@@ -4,6 +4,7 @@ tags:
   - leetcode
 linkToTask: 
 linkToIndex: "[[Studying on leetcode]]"
+topics:
 ---
 ## Description
 
@@ -66,9 +67,9 @@ linkToIndex: "[[Studying on leetcode]]"
 ```typescript
 ```
 
-Сложность по времени: `O()`, потому что .
+Сложность по времени: `O()`.
 
-Сложность по памяти: `O()`, потому что .
+Сложность по памяти: `O()`.
 
 ---
 ### Answer 2
@@ -76,7 +77,7 @@ linkToIndex: "[[Studying on leetcode]]"
 ```typescript
 ```
 
-Сложность по времени: `O()`, потому что .
+Сложность по времени: `O()`.
 
-Сложность по памяти: `O()`, потому что .
+Сложность по памяти: `O()`.
 

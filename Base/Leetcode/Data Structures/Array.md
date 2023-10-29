@@ -42,3 +42,11 @@ array[3] = 99;
 // 6. Сортировка массива.
 array.sort((a, b) => a - b);
 ```
+
+## Tasks
+
+```dataviewjs
+dv.table(["Task"], dv.pages('#leetcode')
+	.filter((entity) => dv.array(entity.topics).includes('array'))
+	.map((entity) => [entity.file.link]));
+```
