@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "id": "number",
-    "topic": "multitext"
+    "topic": "multitext",
+    "linkToIndex": "multitext"
   }
 }

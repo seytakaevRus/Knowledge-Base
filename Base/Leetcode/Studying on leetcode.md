@@ -31,3 +31,7 @@ TABLE level AS "Level", topics AS "Topics"
 FROM #leetcode
 WHERE level = "middle"
 ```
+
+## Topics
+
+[[Matrix]]
