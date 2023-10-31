@@ -3,7 +3,7 @@ level:
 tags:
   - leetcode
 linkToTask: 
-linkToIndex: "[[Studying on leetcode]]"
+linkToIndex: []
 topics:
 ---
 ## Description

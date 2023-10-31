@@ -1,7 +1,7 @@
 ---
 tags:
   - leetcode
-linkToIndex: "[[Studying on leetcode]]"
+  - index
 ---
 ## Description
 
