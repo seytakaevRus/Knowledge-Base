@@ -26,7 +26,7 @@ tags:
 ---
 ## Usage
 
-```js
+```typescript
 const arr = [81, 6, 3, 8, 9, 13, 64, 1];
 const output = [];
 
