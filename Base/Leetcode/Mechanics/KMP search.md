@@ -38,9 +38,41 @@ tags:
 
 В конце массив `π` будет равен `[0, 0, 0, 1, 2, 3, 0]`.
 
+Есть две реализации префиксной функции. Первая это "наивная".
 
+```typescript
+const prefixFunction = (pattern: string) => {
+  const result: number[] = [0];
 
+  for (let i = 1; i < pattern.length; i += 1) {
+    let coefficient = 0;
 
+    let prefix = "";
+    let suffix = "";
+
+    for (let j = 0; j < i; j += 1) {
+      prefix += pattern[j];
+      suffix = pattern[i - j] + suffix;
+
+      if (prefix === suffix) {
+        coefficient = Math.max(coefficient, prefix.length)
+      }
+    }
+
+    result[i] = coefficient;
+  }
+
+  return result;
+}
+```
+
+Этот алгоритм пока что работает за `O(n^3)`, где первый цикл за проходит по `pattern`, второй цикл проходит с `0` до `j`, а третий это сравнение двух строк.
+
+Вторая реализация оптимальнее первой, благодаря следующим наблюдениям:
+1. p<sub>i+1</sub> максимум на единицу превосходит p<sub>i</sub>;
+2. p<sub>i + 1</sub> = p<sub>i</sub> + 1 в том и только в том случае, когда s<sub>p<sub>i</sub></sub> = s<sub>i + 1</sub>, в таком случае можно просто обновить p<sub>i + 1</sub> и пойти дальше.
+
+Например, в строке `aabaataabaa` при `i = 10` максимальный префикс будет равен `5`, если следующим символом будет `t`, то p<sub>11</sub> = p<sub>10</sub> + 1 = 6.
 
 ---
 ## Advantages
