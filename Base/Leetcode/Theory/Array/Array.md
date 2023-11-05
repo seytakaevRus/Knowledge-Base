@@ -70,9 +70,8 @@ array.unshift(5)
 ```typescript
 array.splice(index, 1);
 array.splice(index, 0, 5);
-```
-
-## Tasks
+``` 
+## Задачи
 
 ```dataviewjs
 const mainTopic = "array";
