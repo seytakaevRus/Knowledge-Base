@@ -44,22 +44,6 @@ topics:
 ```
 
 ---
-## Example 3
-
-### Input
-
-```
-```
-### Output
-
-```
-```
-### Explanation
-
-```
-```
-
----
 ## Answers
 
 ### Answer 1
