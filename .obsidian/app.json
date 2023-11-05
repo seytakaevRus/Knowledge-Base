@@ -3,5 +3,6 @@
   "newFileFolderPath": "Base",
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Files"
+  "attachmentFolderPath": "Files",
+  "tabSize": 2
 }
