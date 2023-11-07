@@ -8,6 +8,9 @@ tags:
 
 Все задачи и механики описаны на `JS` или `TS`.
 
+Задач решено: ==`$= dv.pages('#leetcode').filter(entity => entity.level !== null && entity.level !== undefined).length`==
+
+---
 ## Tags
 
 1. `#leetcode` - задачи, взяты из `Leetcode`;

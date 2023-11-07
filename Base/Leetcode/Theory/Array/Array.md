@@ -74,7 +74,7 @@ array.splice(index, 0, 5);
 ## Задачи
 
 ```dataviewjs
-const mainTopic = "array";
+const mainTopic = dv.current().file.name.toLowerCase();
 
 const LEVELS_CODES = {
 	'elementary': 0,
