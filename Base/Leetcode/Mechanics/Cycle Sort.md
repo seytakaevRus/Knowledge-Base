@@ -32,6 +32,8 @@ https://leetcode.com/discuss/study-guide/2958275/cyclic-sort-important-pattern
 
 `index` не меняется, пока на значения `index` не встанет число со значением `array[index] + 1` при `[1..n]` и со значением `array[index]` при `[0..n]`. Чтобы это произошло меняются местами элементы с индексом `correctIndex` и `index`.
 
+
+
 Сложность по памяти: `O(1)`.
 Сложность по времени: `O(n)`.
 

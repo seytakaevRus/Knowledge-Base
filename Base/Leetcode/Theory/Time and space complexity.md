@@ -1,6 +1,7 @@
 ---
 tags:
   - leetcode
+  - draft
 ---
 ## Big O
 
@@ -128,3 +129,8 @@ const fibonacci = (n) => {
 ```
 
 ![[algorithm_efficiency.jpg]]
+
+
+TODO: Добавить инфу про сложность по памяти:
+1. https://www.geeksforgeeks.org/g-fact-86/;
+2. https://www.faceprep.in/data-structures/space-complexity/.
