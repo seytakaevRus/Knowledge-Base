@@ -7,9 +7,9 @@ linkToTask: https://github.com/type-challenges/type-challenges/blob/main/questio
 ---
 ## Subscription
 
-Implement the built-in `Readonly<T>` generic without using it.
+Реализовать собственный `Readonly<T>` дженерик без использования утилок ts.
 
-Constructs a type with all properties of T set to readonly, meaning the properties of the constructed type cannot be reassigned.
+Утилка должна принимать тип T и вернуть новый тип, который имеет все те же поля что и тип T, только с модификаторами readonly.
 
 For example:
 ```typescript

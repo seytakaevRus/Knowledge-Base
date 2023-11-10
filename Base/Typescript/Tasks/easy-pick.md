@@ -7,9 +7,9 @@ linkToTask: https://github.com/type-challenges/type-challenges/blob/main/questio
 ---
 ## Subscription
 
-Implement the built-in `Pick<T, K>` generic without using it.
+Реализовать`Pick<T, K>` без использования утилок ts.
 
-Constructs a type by picking the set of properties `K` from `T`
+Нужно создать тип с использованием дженерик типов `K` от T.
 
 For example:
 ```typescript

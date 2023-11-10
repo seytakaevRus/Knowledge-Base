@@ -7,9 +7,9 @@ linkToTask: https://github.com/type-challenges/type-challenges/blob/main/questio
 ---
 ## Subscription
 
-Implement the built-in `Omit<T, K>` generic without using it.
+Реализовать собственный `Omit<T, K>` без использования утилок ts.
 
-Constructs a type by picking all properties from `T` and then removing `K`
+Утилка должна принимать тип `T` и удалить из него ключи из второго принимаемого типа либо юнион типов `K`.
 
 For example:
 ```typescript
