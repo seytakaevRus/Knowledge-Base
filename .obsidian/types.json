@@ -5,6 +5,7 @@
     "tags": "tags",
     "id": "number",
     "topic": "multitext",
-    "linkToIndex": "multitext"
+    "linkToIndex": "multitext",
+    "topics": "multitext"
   }
 }
