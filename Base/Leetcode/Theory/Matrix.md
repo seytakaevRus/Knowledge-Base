@@ -1,9 +1,8 @@
 ---
 tags:
   - leetcode
-  - index
 ---
-## Description
+# Description
 
 `Матрица` - это двумерный массив.
 
@@ -40,12 +39,4 @@ for (let i = 0; i < array.length; i++) {
 
 // 5. Модифицирование элемента.
 array2[1][2] = 99;
-```
-
-## Tasks
-
-```dataviewjs
-dv.table(["Task"], dv.pages('#leetcode')
-	.filter((entity) => dv.array(entity.topics).includes('matrix'))
-	.map((entity) => [entity.file.link]));
 ```

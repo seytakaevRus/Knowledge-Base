@@ -1,9 +1,8 @@
 ---
 tags:
   - leetcode
-  - index
 ---
-## Описание
+## Description
 
 `Массив` - базовая структура для последовательного хранения элементов. Элементы в памяти хранятся рядом с ячейках памяти. Доступ к элементам возможен по индексам.
 
@@ -19,21 +18,23 @@ tags:
 2. `Динамический массив` -  массив, у которого размер может быть изменен.
 
 Но в `JavaScript` массивы динамические, да и размер не нужно указывать заранее.
-## Операции с массивом
 
-### Создание
+---
+## Operations with array
+
+### Creating
 
 ```typescript
 const array = [1, 6, 3, 10, 5];
 ```
-### Получение длины
+### Getting length
 
 `O(1)` по времени.
 
 ```typescript
 console.log(array.length);
 ```
-### Получение элемента по индексу
+### Getting by index
 
 `O(1)` по времени.
 
@@ -43,10 +44,10 @@ console.log(array[2]);
 console.log(array[5]);
 ```
 
-### Поиск элемента в массиве
+### Searching element by value
 
 `O(n)` по времени, так как нужно пройтись по всему массиву.
-### Удаление/добавление элемента с конца/в конец
+### Deleting from the end / Adding element to the end
 
 `O(1)` по времени.
 
@@ -55,7 +56,7 @@ array.pop();
 array.push(5)
 ```
 
-### Удаление/добавление элемента с начала/в начало
+### Deleting from the start / Adding element to the start
 
 `O(n)` по времени, так как после удаления/добавления первого элемента, оставшиеся элементы сдвигаются.
 
@@ -63,36 +64,11 @@ array.push(5)
 array.shift();
 array.unshift(5)
 ```
-### Удаление/добавление элементов с произвольного места/в произвольное место
+### Deleting from the random / Adding element to the random
 
 `O(n)` по времени, так как после удаления/добавления с произвольного места/в произвольное место элементы справа будут сдвигаться.
 
 ```typescript
 array.splice(index, 1);
 array.splice(index, 0, 5);
-``` 
-## Задачи
 
-```dataviewjs
-const mainTopic = dv.current().file.name.toLowerCase();
-
-const LEVELS_CODES = {
-	'elementary': 0,
-	'easy': 1,
-	'middle': 2,
-	'hard': 3,
-};
-
-dv.table(["Task", "Additional topics", "Level"], dv.pages('#leetcode')
-	.sort(entity => LEVELS_CODES[entity.level])
-	.filter(entity => {
-		return dv
-			.array(entity.topics)
-			.includes('array');
-	})
-	.map(entity => {
-		const topics = entity.topics.filter((topic) => topic !== mainTopic);
-
-		return [entity.file.link, topics, entity.level];
-	}));
-```
