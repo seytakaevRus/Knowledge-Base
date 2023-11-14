@@ -17,8 +17,11 @@ type arr2 = [3, 2, 1]
 type tail1 = Last<arr1> // expected to be 'c'
 type tail2 = Last<arr2> // expected to be 1
 ```
+
+---
 ## Solution
-(мое не оптимальное решение, но довольно интересное через infer и рекурсию)
+
+(мое не оптимальное решение, но довольно интересное через infer и рекурсию):
 ```typescript
 type arr1 = ['a', 'b', 'c']
 type arr2 = [3, 2, 1]
@@ -34,6 +37,7 @@ type Last<T extends any[]> = T extends [infer First, ...infer Rest] ? (
 type tail1 = Last<arr1> // expected to be 'c'
 type tail2 = Last<arr2> // expected to be 1
 ```
+
 Более короткое решение от какого-то китайца из гитхаба:
 ```typescript
 type EaserLast<T extends any[]> = [any, ...T][T["length"]];
