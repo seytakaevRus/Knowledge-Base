@@ -9,9 +9,7 @@ linkToTask: https://github.com/type-challenges/type-challenges/blob/main/questio
 
 Реализовать`Pick<T, K>` без использования утилок ts.
 
-Нужно создать тип с использованием дженерик типов `K` от T.
-
-For example:
+Пример кода:
 ```typescript
 interface Todo {
   title: string
@@ -26,7 +24,10 @@ const todo: TodoPreview = {
     completed: false,
 }
 ```
+
+---
 ## Solution
+
 ```typescript
 interface Todo {
   title: string
@@ -43,6 +44,8 @@ const todo: TodoPreview = {
     completed: false,
 }
 ```
+
+---
 ## Explanation
 
 Typescript поддерживает маппинг типов. В данном случае мы просто проходимся по элементам юниона при помощи оператора in

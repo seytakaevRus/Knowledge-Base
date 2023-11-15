@@ -11,7 +11,7 @@ linkToTask: https://github.com/type-challenges/type-challenges/blob/main/questio
 
 Утилка должна принимать тип T и вернуть новый тип, который имеет все те же поля что и тип T, только с модификаторами readonly.
 
-For example:
+Пример кода:
 ```typescript
 interface Todo {
   title: string
@@ -26,7 +26,10 @@ const todo: MyReadonly<Todo> = {
 todo.title = "Hello" // Error: cannot reassign a readonly property
 todo.description = "barFoo" // Error: cannot reassign a readonly property
 ```
+
+---
 ## Solution
+
 ```typescript
 interface Todo {
   title: string
@@ -40,6 +43,8 @@ const todo: MyReadonly<Todo> = {
   description: "foobar"
 }
 ```
+
+---
 ## Explanation
 
 В данной задаче используется оператор keyof, возвращающий юнион ключей типа (в нашем случае Todo). При помощи оператора in мы просто мапим все ключи типа Todo и добавляем модификатор readonly. Если у нас обратная задача (удалить модификатор), то это моно сделать, добавив знак `-` перед модификатором.

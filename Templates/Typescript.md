@@ -8,14 +8,19 @@ linkToTask: https://github.com/type-challenges/type-challenges/blob/main/questio
 
 Implement some type
 
-For example:
+Пример кода:
 ```typescript
 type MyType = any;
 ```
+
+---
 ## Solution
+
 ```typescript
 type MyType<T> = T;
 ```
+
+---
 ## Explanation
 
 Краткое описание
