@@ -6,6 +6,7 @@
     "id": "number",
     "topic": "multitext",
     "linkToIndex": "multitext",
-    "topics": "multitext"
+    "topics": "multitext",
+    "premium": "checkbox"
   }
 }
