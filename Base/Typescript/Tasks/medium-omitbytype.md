@@ -10,6 +10,7 @@ linkToTask: https://github.com/type-challenges/type-challenges/blob/main/questio
 Убрать из типа T все ключи, которые имеют примитивный тип K
 
 Пример кода:
+
 ```typescript
 type OmitBoolean = OmitByType<{
   name: string

@@ -12,6 +12,7 @@ linkToTask: https://github.com/type-challenges/type-challenges/blob/main/questio
 Утилка должна принимать тип T и вернуть новый тип, который имеет все те же поля что и тип T, только с модификаторами readonly.
 
 Пример кода:
+
 ```typescript
 interface Todo {
   title: string

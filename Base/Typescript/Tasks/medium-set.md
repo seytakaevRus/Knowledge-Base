@@ -10,6 +10,7 @@ linkToTask: https://github.com/type-challenges/type-challenges/blob/main/questio
 Необходимо получить на вход тупл и вернуть тупл без повторений.
 
 Пример кода:
+
 ```typescript
 type Res = Unique<[1, 1, 2, 2, 3, 3]>; // expected to be [1, 2, 3]
 type Res1 = Unique<[1, 2, 3, 4, 4, 5, 6, 7]>; // expected to be [1, 2, 3, 4, 5, 6, 7]

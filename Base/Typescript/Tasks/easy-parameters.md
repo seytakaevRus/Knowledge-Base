@@ -10,6 +10,7 @@ linkToTask: https://github.com/type-challenges/type-challenges/blob/main/questio
 Достать массив параметров из типа функции:
 
 Пример кода:
+
 ```typescript
 const foo = (arg1: string, arg2: number): void => {}
 

@@ -21,7 +21,7 @@ class MyClass implements ClassType {//A class can only implement an object type 
 ```
 
 ---
-## типы подходят для union и intersection
+## Типы подходят для union и intersection
 
 В типах мы можем объединять другие типы:
 
@@ -44,7 +44,7 @@ type ThirdType = SecondType | FirstType;
 ```
 
 ---
-## и типом и интерфейсом можно типизировать функции
+## И типом и интерфейсом можно типизировать функции
 
 ```ts
 interface Type1 {
