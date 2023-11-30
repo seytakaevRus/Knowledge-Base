@@ -11,6 +11,7 @@ linkToTask: https://github.com/type-challenges/type-challenges/blob/main/questio
 Необходимо получить на вход строку и превратить ее в целое число как это делает parseInt.
 
 Пример кода:
+
 ```typescript
 type Test1 = ParseInt<'74,2'> //74
 type Test2 = ParseInt<'3f'> //3

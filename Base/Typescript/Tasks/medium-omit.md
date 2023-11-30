@@ -12,6 +12,7 @@ linkToTask: https://github.com/type-challenges/type-challenges/blob/main/questio
 Утилка должна принимать тип `T` и удалить из него ключи из второго принимаемого типа либо юнион типов `K`.
 
 For example:
+
 ```typescript
 interface Todo {
   title: string

@@ -10,6 +10,7 @@ linkToTask: https://github.com/type-challenges/type-challenges/blob/main/questio
 Реализовать`Pick<T, K>` без использования утилок ts.
 
 Пример кода:
+
 ```typescript
 interface Todo {
   title: string
