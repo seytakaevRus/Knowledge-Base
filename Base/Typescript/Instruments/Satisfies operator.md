@@ -1,3 +1,8 @@
+---
+tags:
+  - "#typescript"
+---
+
 Посмотрим на этот код:
 
 ```typescript

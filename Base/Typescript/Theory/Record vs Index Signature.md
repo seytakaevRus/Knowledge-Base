@@ -1,4 +1,8 @@
-#typescript
+---
+tags:
+  - "#typescript"
+---
+
 
 Мы можем описывать объект при помощи утилки Record или при помощи Index Signature.
 
