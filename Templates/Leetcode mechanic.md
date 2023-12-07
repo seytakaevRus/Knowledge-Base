@@ -14,7 +14,7 @@ tags:
 ---
 ## Usage
 
-```js
+```typescript
 ```
 
 ---
