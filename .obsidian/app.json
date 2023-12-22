@@ -4,5 +4,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Files",
-  "tabSize": 2
+  "tabSize": 2,
+  "spellcheck": false
 }
