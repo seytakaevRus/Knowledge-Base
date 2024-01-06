@@ -68,3 +68,7 @@ function printId(id: number | string) {
 ```ts
 type Test = any | string | number;// any
 ```
+
+4. Если мы обрабатываем union, то наши манипуляции работают с каждым элементом union'а:
+ ![[typescript-unions.png]]
+
