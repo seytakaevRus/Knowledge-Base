@@ -3,7 +3,7 @@ level: easy
 tags:
   - typescript
   - infer-tricks
-linkToTask: https://typehero.dev/challenge/day-8
+linkToTask: https://typehero.dev/challenge/day-9
 ---
 ## Subscription
 
